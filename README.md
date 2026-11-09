@@ -20,7 +20,8 @@ Browse the archived presentations below. All files are stored in [`presentations
 | 2026-10-15 | Technology in Mortgage Lending | [王意飞](https://github.com/fsxf) | [PPT](./presentations/Technology%20in%20Mortgage%20Lending_%E7%8E%8B%E6%84%8F%E9%A3%9E.pptx) | — |
 | 2026-10-15 | x402 Payments: Security Risks | [Ayman Asaad](https://github.com/AymanAsaad27) | — | [PDF](./presentations/X402-Payments-Ayman-Asaad.pdf) |
 | 2026-10-15 | KTD-Fin: From Knowing to Doing | [董子禛](https://github.com/tommydzz) | [PPT](./presentations/KTD-Fin_%E8%91%A3%E5%AD%90%E7%A6%9B.pptx) | — |
-| 2026-10-15 | TiMi: Rationality-Driven Agents for Quantitative Trading | [王怡飞](https://github.com/alden199) | [PPT](./presentations/TiMi_%E7%8E%8B%E6%80%A1%E9%A3%9E.pptx) | — |
+| 2026-10-15 | TiMi: Rationality-Driven Agents for Quantitative Trading | [王怡飞](https://github.com/alden199) | [PPT](./presentations/TiMi_%E7%8E%8B%E6%80%A1%E9%A3%9E.pptx) | — | [dongyi](https://github.com/studyidong) | 
+| 2026-10-15 | FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design | [PPT](./presentations/FinMem_dongyi.pptx) | — |
 | 2026-10-22 | FinBERT: Financial Text Analysis | [Chaofan Cheng](https://github.com/rrricemaker) | [PPT](./presentations/FinBERT%E9%87%91%E8%9E%8D%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90_%E7%A8%8B%E8%B6%85%E5%87%A1.pptx) | — |
 | 2026-10-30 | FCMR: Financial Cross-Modal Multi-Hop Reasoning | [陈凯欣](https://github.com/pulito1016) | [PPT](./presentations/FCMR_Robust_Evaluation_of_Financial_Cross-Modal_Multi-Hop_Reasoning_%E9%99%88%E5%87%AF%E6%AC%A3.pptx) | — |
 | 2026-11-05 | FinAgent: A Multimodal Foundation Agent for Financial Trading | [张云帆](https://github.com/zhangshao04) | [PPT](./presentations/FinAgent_%E5%BC%A0%E4%BA%91%E5%B8%86.pptx) | [PDF](./presentations/FinAgent_%E5%BC%A0%E4%BA%91%E5%B8%86.pdf) |
