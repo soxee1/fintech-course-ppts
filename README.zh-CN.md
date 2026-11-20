@@ -25,6 +25,7 @@
 | 2026-10-30 | FCMR：金融跨模态多跳推理 | [陈凯欣](https://github.com/pulito1016) | [PPT](./presentations/FCMR_Robust_Evaluation_of_Financial_Cross-Modal_Multi-Hop_Reasoning_%E9%99%88%E5%87%AF%E6%AC%A3.pptx) | — |
 | 2026-11-05 | FinAgent：面向金融交易的多模态智能体 | [张云帆](https://github.com/zhangshao04) | [PPT](./presentations/FinAgent_%E5%BC%A0%E4%BA%91%E5%B8%86.pptx) | [PDF](./presentations/FinAgent_%E5%BC%A0%E4%BA%91%E5%B8%86.pdf) |
 | 2026-11-05 | 机器学习对信贷市场的影响 | [卜夕雨](https://github.com/ahhhhhy) | [PPT](./presentations/AICredit_%E5%8D%9C%E5%A4%95%E9%9B%A8.pptx) | — |
+| 2026-11-19 | AlphaBench：公式化 Alpha 因子挖掘的大语言模型评测基准 | [肖梓恒](https://github.com/Resona-02) | [PPT](./presentations/AlphaBench_%E8%82%96%E6%A2%93%E6%81%92.pptx) | — |
 | 待补充 | VideoConviction 论文汇报 | [邓羽凡](https://github.com/drip-0) | [PPT](./presentations/VideoConviction_%E9%82%93%E7%BE%BD%E5%87%A1.pptx) | — |
 | 待补充 | FinO1 论文汇报 | [董胜凡](https://github.com/systemSpiderm) | [PPT](./presentations/FinO1_%E8%91%A3%E8%83%9C%E5%87%A1.pptx) | — |
 
